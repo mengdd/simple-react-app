@@ -11,7 +11,8 @@ export default function App() {
         }}
       >
         <Link to="/page1">Page1</Link> |{" "}
-        <Link to="/page2">Page2</Link>
+        <Link to="/page2">Page2</Link> |{" "}
+        <Link to="/page3">redirect</Link>
       </nav>
     </div>
   );
